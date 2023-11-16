@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(196, 161, 230);
+    font-size: 35px;
+    padding: 30px
+}
+
+
+.calculator {
+    flex-direction: column;
+    margin-top: 100px;
+
+}
+
+input, button {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    width: 50px;
+}
+
+#result {
+    font-weight: bold;
+}
+.num1 {
+    font-size: 20px;
+
+}
+
+.num2 {
+    font-size: 20px;
+}

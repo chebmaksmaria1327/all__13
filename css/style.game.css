@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(17, 17, 61);
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-size: 25px;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+    font-size: 20px;
+  }
+  
+  button {
+    margin-top: 10px;
+    font-size: 20px;
+  }

@@ -38,25 +38,21 @@ body {
 }
 
 
-.nav {
+.menu {
    font-size: 20px;
+   color: white;
+   
 }
-.nav__list {
+.menu__list {
     display: flex;
 
 }
 
-.nav__item {
+.menu__item {
     margin-right: 28px;
+  
+
 }
 
-.nav__item:last-child {
-    margin-right: 0;
-}
 
-.nav__link {
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.14;
-    color: rgb(255, 255, 255, 0.7);
-}
+
